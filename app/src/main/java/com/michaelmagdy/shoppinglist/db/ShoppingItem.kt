@@ -1,4 +1,4 @@
-package com.michaelmagdy.shoppinglist
+package com.michaelmagdy.shoppinglist.db
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

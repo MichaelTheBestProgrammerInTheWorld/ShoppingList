@@ -1,4 +1,4 @@
-package com.michaelmagdy.shoppinglist
+package com.michaelmagdy.shoppinglist.db
 
 import android.content.Context
 import androidx.room.Database

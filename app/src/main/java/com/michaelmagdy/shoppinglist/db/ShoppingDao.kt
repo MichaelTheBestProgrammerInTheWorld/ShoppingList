@@ -1,4 +1,4 @@
-package com.michaelmagdy.shoppinglist
+package com.michaelmagdy.shoppinglist.db
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
